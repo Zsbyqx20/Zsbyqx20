@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Zsbyqx20, a student in THU EE 🌻
-- 👀 Interested in so many periods(without excellent understanding though😉), such as CNN, object detection... 
-- 💝 I'm relatively familiar with Python application.
-- 📫 How to reach me? Email me on zacharyvixx@hotmail.com if needed.
+- 👋 Hi, I’m @Zsbyqx20, a student in THU AIR.
+- 👀 Interested in LLM-related area, such as model compression, edge computing, etc.
+- 💝 Python is frequently used. Familiar with Linux.
+- 📫 Reach me through zacharyvixx@hotmail.com.
 
 <!---
 Zsbyqx20/Zsbyqx20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
