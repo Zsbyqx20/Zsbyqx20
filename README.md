@@ -3,7 +3,7 @@
 - 💝 Python is frequently used. Currently interested in Rust 🦀!
 - 💻 Familiar with Unix systems.
 
-[![Zsbyqx20's GitHub stats](https://github-readme-stats.vercel.app/api?username=zsbyqx20)](https://github.com/anuraghazra/github-readme-stats)
+[![Zsbyqx20's GitHub stats](https://github-readme-stats-one-alpha-cgovk4hg34.vercel.app/api?username=Zsbyqx20)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 Zsbyqx20/Zsbyqx20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
